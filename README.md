@@ -19,9 +19,9 @@ I am excited to work on future projects with more collaborators, larger technolo
 |-----:|---------------|
 |     1|  Python       |
 |     2|  Java         |
-|     3|  SQL          |
-|     4|  HTML         |
-|     5|  CSS          |
+|     3|  JavaScript   |
+|     4|  HTML/CSS     |
+|     5|  SQL          |
 
 </details>
 
